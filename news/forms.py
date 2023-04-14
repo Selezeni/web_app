@@ -14,7 +14,7 @@ class ArticlesForm(ModelForm):
             }),
             'anons': TextInput(attrs={
                 'class': 'form-control',
-                'placeholder': 'Название статьи'
+                'placeholder': 'Анонс статьи'
             }),
             'date': DateTimeInput(attrs={
                 'class': 'form-control',

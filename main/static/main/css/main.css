@@ -56,7 +56,9 @@ main .features {
     width: 75%;
 }
 
-main .features h1 {font-size: 50px}
+main .features h1 {
+    font-size: 30px;
+    }
 main .features p {max-width: 400px; margin: 20px auto}
 
 .alert-warning {
@@ -64,7 +66,7 @@ main .features p {max-width: 400px; margin: 20px auto}
     clear: both;
     width: 400px;
     margin: 20px 34%;
-    text-align: left;
+    text-align: center;
 }
 
 form {
